@@ -6,7 +6,7 @@ accounts:
   message: "thank you for contacting accounts microservices development team [default]"
   contactDetails:
     developer: "prateek arya"
-    email: "{cipher}9ae400899c14b9152832c5f0db183699297e079af46237e7565ef2fc98f66a6994ce85736d4047f72b8a5c588c637685"
+    email: "{cipher}f1631d3e1f1bac4efaaa653d64b3b8b88a0f38a42b0c197e31d429b15e6ebab7d4f9f750c5f3da351b803df65d2a3fcb"
   onCallSupport:
     - 9650841442
     - 9123456789

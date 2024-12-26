@@ -1,6 +1,6 @@
 
 accounts:
-  message: "thank you for contacting accounts microservices prod team"
+  message: "thank you for contacting accounts microservices team last production"
   contactDetails:
     developer: "asim ahmed - product engineer"
     email: "asimahmed@gmail.com"

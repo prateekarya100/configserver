@@ -2,8 +2,8 @@
 accounts:
   message: "thank you for contacting accounts microservices production team"
   contactDetails:
-    developer: "vivek singh - product engineer"
-    email: "viveksingh@gmail.com"
+    developer: "asim ahmed - product engineer"
+    email: "asimahmed@gmail.com"
   onCallSupport:
     - 9543211234
     - 9123456789

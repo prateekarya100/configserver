@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "thank you for contacting accounts microservices development team [default]"
+  message: "thank you for contacting accounts microservices development team [default/primary]"
   contactDetails:
     developer: "prateek arya"
     email: "{cipher}d511cd6fff5641e3ee2f281aa0e2bfd2fb256907d2e2730cc18f7c80d27c84ad2bc5e2b1d5914bc8c9e4ef43eab73798"

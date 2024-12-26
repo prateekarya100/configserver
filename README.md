@@ -1,2 +1,2 @@
 # configserver
- Server managing configuration yml files for all microservices
+ Server managing configuration yml files for all eazybank microservices

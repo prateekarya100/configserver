@@ -6,7 +6,7 @@ build:
 cards:
   message: "thank you for contacting cards microservices support and monitoring team"
   contactDetails:
-    developer: "naveen pateria - support engineer"
+    developer: "naveen pateria - support"
     email: "naveenpateria@gmail.com"
   onCallSupport:
     - 9543211234

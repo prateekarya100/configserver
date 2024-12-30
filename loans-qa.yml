@@ -4,7 +4,7 @@ build:
   version: "v3.2"
 
 loans:
-  message: "thank you for contacting loans microservices quality analysis team"
+  message: "thank you for contacting loans microservices qa analysis team"
   contactDetails:
     developer: "vedant jha - quality engineer"
     email: "vedantjha@gmail.com"

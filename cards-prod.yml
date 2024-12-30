@@ -3,7 +3,7 @@ build:
   version: "v1.1"
 
 cards:
-  message: "thank you for contacting cards microservices prod team"
+  message: "thank you for contacting cards microservices production team"
   contactDetails:
     developer: "manish sharma - software product engineer"
     email: "manishsharma@gmail.com"

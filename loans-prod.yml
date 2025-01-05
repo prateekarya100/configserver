@@ -5,7 +5,7 @@ build:
 loans:
   message: "thank you for contacting loans microservices production team"
   contactDetails:
-    developer: "jatin sapra - product busrefresh"
+    developer: "jatin sapra - product engineer"
     email: "jatinsapra@gmail.com"
   onCallSupport:
     - 9543211234

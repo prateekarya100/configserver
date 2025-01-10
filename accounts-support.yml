@@ -3,7 +3,7 @@
 accounts:
   message: "thank you for contacting accounts microservices production support team"
   contactDetails:
-    developer: "varnita makrariya - support engineer"
+    developer: "varnita makrariya - support "
     email: "{cipher}f8c87e7f5f826771b4dac25339f6a0d06f454360b3dd189ef1cdc2f03b529c468b62ab53ca3075568633cb8d3dc5678e"
   onCallSupport:
     - 9543211234

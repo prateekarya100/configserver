@@ -5,7 +5,7 @@ build:
 cards:
   message: "thank you for contacting cards microservices quality analysis team"
   contactDetails:
-    developer: "mayank kumar singh - quality engineer"
+    developer: "mayank kumar singh - quality "
     email: "mayankkumar@gmail.com"
   onCallSupport:
     - 9543211234

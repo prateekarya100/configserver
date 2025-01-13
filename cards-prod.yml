@@ -5,7 +5,7 @@ build:
 cards:
   message: "thank you for contacting cards microservices production team"
   contactDetails:
-    developer: "manish sharma - product engineer"
+    developer: "manish sharma - product egnineer"
     email: "manishsharma@gmail.com"
   onCallSupport:
     - 9543211234

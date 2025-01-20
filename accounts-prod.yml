@@ -2,7 +2,7 @@
 accounts:
   message: "thank you for contacting accounts microservices production team"
   contactDetails:
-    developer: "asim ahmed - product webhook"
+    developer: "asim ahmed - product engineer"
     email: "asimahmed@gmail.com"
   onCallSupport:
     - 9543211234

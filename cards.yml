@@ -2,7 +2,7 @@ build:
   version: "v1.0"
 
 cards:
-  message: "thank you for contacting cards microservices development team"
+  message: "thank you for contacting cards microservices development team hookdeck"
   contactDetails:
     developer: "prateek arya"
     email: "prateekarya100@gmail.com"

@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "thank you for contacting accounts microservices development team [default/primary]"
+  message: "thank you for contacting accounts microservices development team [default/primary] hookdeck"
   contactDetails:
     developer: "prateek arya"
     email: "{cipher}1a8003eb6169183494fc079839dfe64dec58f53dcc3f72261a361e0ad7adbaee79ad6c678761c2edea1adceca152afbd"

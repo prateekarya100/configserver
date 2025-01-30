@@ -3,7 +3,7 @@
 accounts:
   message: "thank you for contacting accounts microservices quality assurance team"
   contactDetails:
-    developer: "rohan mathur - quality analyst"
+    developer: "rohan mathur - quality analyst updated"
     email: "rohanmathur@gmail.com"
   onCallSupport:
     - 9112233445

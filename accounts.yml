@@ -5,7 +5,7 @@ build:
 accounts:
   message: "thank you for contacting accounts microservices development team [default/primary]"
   contactDetails:
-    developer: "prateek arya"
+    developer: "prateek arya updated webhook"
     email: "{cipher}1a8003eb6169183494fc079839dfe64dec58f53dcc3f72261a361e0ad7adbaee79ad6c678761c2edea1adceca152afbd"
   onCallSupport:
     - 9650841442

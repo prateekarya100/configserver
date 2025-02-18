@@ -7,7 +7,7 @@ spring:
 accounts:
   message: "thank you for contacting accounts microservices production team"
   contactDetails:
-    developer: "asim ahmed - product engineer updated"
+    developer: "asim ahmed - product engineer webhook"
     email: "asimahmed@gmail.com"
   onCallSupport:
     - 9543211234

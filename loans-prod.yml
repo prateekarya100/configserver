@@ -3,7 +3,7 @@ build:
   version: "v3.1"
 
 loans:
-  message: "thank you for contacting loans microservices prod webhook changes done by team"
+  message: "thank you for contacting loans microservices production team"
   contactDetails:
     developer: "jatin sapra - product engineer"
     email: "jatinsapra@gmail.com"
